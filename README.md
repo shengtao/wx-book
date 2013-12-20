@@ -1,4 +1,4 @@
 wx-book
 =======
 
-wechat developer platform tutorial
+Wechat developer platform tutorial
